@@ -125,7 +125,6 @@ print("########################\n")
 print("final code for the game:")
 print(game)
 
-
 # save it in python file
 text_file = open("sample.py", "w")
 n = text_file.write(game)
